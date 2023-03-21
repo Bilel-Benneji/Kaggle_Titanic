@@ -1,6 +1,6 @@
 # Titanic: Machine Learning from Disaster
 
-In this repository, you will find the road map that I followed to build a machine learning model for a Kaggle competition. The model's predictions gave me a score of **80.143% score**. <br>
+In this repository, you will find the road map that I followed to build a machine learning model for a Kaggle competition. The model's predictions gave me a score of **79% score**. <br>
 
 
 You can find further information about the competition [here](https://www.kaggle.com/c/titanic)<br><br>
